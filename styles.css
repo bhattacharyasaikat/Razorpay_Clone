@@ -1,0 +1,10 @@
+.wave-img{
+/* visibility: hidden; */
+    position: absolute;
+    right: 0;
+    bottom: 1.4rem;
+    transition: all;
+    transition-duration: 200ms;
+    
+}
+
